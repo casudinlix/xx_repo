@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "/Applications/public_html/enotary"
+		},
+		{
+			"path": "/Users/casudin/server/flatable-v1.0.1"
+		},
+		{
+			"path": "/Users/casudin/server/laravel_angular"
+		},
+		{
+			"path": "/Users/casudin/server/notary_spa"
+		},
+		{
+			"path": "/Applications/public_html/notary"
+		}
+	],
+	"settings": {}
+}
